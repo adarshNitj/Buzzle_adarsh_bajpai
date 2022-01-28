@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Finalpage from "./components/Finalpage";
+import Listone from "./components/Listone";
+import Listtwo from "./components/Listtwo";
+import Mainpage from "./components/Mainpage";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      {/*
+ <div className="container">
+ <Listone/> 
+ </div>
+ <div className="container">
+ <Listtwo/>
+  </div>
+      */}
+      <Finalpage/>
+    </>
   );
 }
 

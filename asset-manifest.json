@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Buzzle_adarsh_bajpai/static/css/main.abd64e84.css",
+    "main.js": "/Buzzle_adarsh_bajpai/static/js/main.e990b607.js",
+    "static/js/787.5c39024c.chunk.js": "/Buzzle_adarsh_bajpai/static/js/787.5c39024c.chunk.js",
+    "index.html": "/Buzzle_adarsh_bajpai/index.html",
+    "main.abd64e84.css.map": "/Buzzle_adarsh_bajpai/static/css/main.abd64e84.css.map",
+    "main.e990b607.js.map": "/Buzzle_adarsh_bajpai/static/js/main.e990b607.js.map",
+    "787.5c39024c.chunk.js.map": "/Buzzle_adarsh_bajpai/static/js/787.5c39024c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e990b607.js"
+  ]
+}
